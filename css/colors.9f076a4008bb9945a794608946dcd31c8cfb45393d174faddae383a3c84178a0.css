@@ -1,0 +1,10 @@
+:root {
+    --maincolor: hsl(0, 0%, 30%);
+    --hovercolor: hsl(0, 0%, 50%);
+    --bordercl: hsl(0, 0%, 60%);
+}
+
+footer {
+    color: hsl(0, 0%, 60%);
+}
+

@@ -8,3 +8,6 @@ footer {
     color: hsl(0, 0%, 60%);
 }
 
+a.rss-link {
+    border-bottom-width: 0;
+}

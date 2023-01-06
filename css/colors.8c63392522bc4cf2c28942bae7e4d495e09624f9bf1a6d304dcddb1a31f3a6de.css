@@ -11,3 +11,11 @@ footer {
 a.rss-link {
     border-bottom-width: 0;
 }
+
+img {
+    border: none;
+}
+
+p {
+    font-family: inherit;
+}

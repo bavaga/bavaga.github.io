@@ -8,7 +8,7 @@ footer {
     color: hsl(0, 0%, 60%);
 }
 
-a.rss-link {
+a:is(.rss-link, .footnote-ref, .footnote-backref) {
     border-bottom-width: 0;
 }
 
@@ -18,4 +18,10 @@ img {
 
 p {
     font-family: inherit;
+}
+
+.footnotes {
+    color: hsl(0, 0%, 60%);
+    margin-top: 4rem;
+    margin-bottom: 5rem;
 }

@@ -1,0 +1,5 @@
+User-agent: *
+Sitemap: https://www.bavaga.com/sitemap.xml
+Disallow:
+
+# Hello my dear friend, how are you today?

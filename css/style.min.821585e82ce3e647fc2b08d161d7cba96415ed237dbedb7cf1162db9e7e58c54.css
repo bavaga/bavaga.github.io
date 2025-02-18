@@ -676,6 +676,12 @@
     border-style: var(--tw-border-style);
     border-width: 1px;
   }
+  .border-gray-200 {
+    border-color: var(--color-gray-200);
+  }
+  .border-gray-300 {
+    border-color: var(--color-gray-300);
+  }
   .bg-white {
     background-color: var(--color-white);
   }
